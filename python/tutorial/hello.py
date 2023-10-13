@@ -1,4 +1,4 @@
-# Ciao Tommaso, benvenuto al tutorial di papa' su python!
+# Benvenuto al tutorial su python!
 # In questa parte della finestra puoi scrivere il codice ed eseguirlo con il tasto "play" in alto a dx.
 # Ogni volta che premi "play" nella finestra in basso "TERMINAL" vedrai il risultato del tuo programma o delle scritte 
 # rosse in caso contenga errori.
